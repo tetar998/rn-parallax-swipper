@@ -1,0 +1,1 @@
+# rn-parallax-swipper
